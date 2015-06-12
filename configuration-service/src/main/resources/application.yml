@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: file://${HOME}/bootiful-microservices-config
+          uri: file://${HOME}/agiles2015-microservices-config
