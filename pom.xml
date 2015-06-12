@@ -19,6 +19,8 @@
         <!-- infrastructure -->
         <module>configuration-service</module>
         <module>eureka-service</module>
+        <!-- user interface -->
+        <module>ui-service</module>
     </modules>
 
     <properties>
